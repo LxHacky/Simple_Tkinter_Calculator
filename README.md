@@ -64,7 +64,7 @@ A simple GUI calculator that demonstrates:
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tkinter-calculator.git
+git clone https://github.com/LxHacky/Simple_Tkinter_Calculator.git
    
 Navigate to the project folder:
 cd tkinter-calculator
