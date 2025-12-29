@@ -70,7 +70,7 @@ Navigate to the project folder:
 cd tkinter-calculator
 
 ▶️ Run the Application:
-bash  python calculator.py
+python calculator.py
 
 ✨ Features
 
