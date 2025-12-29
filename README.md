@@ -63,8 +63,7 @@ A simple GUI calculator that demonstrates:
    https://www.python.org/downloads/
 
 2. Clone the repository:
-   ```bash
-https://github.com/LxHacky/Simple_Tkinter_Calculator.git
+git clone https://github.com/LxHacky/Simple_Tkinter_Calculator.git
    
 Navigate to the project folder:
 cd tkinter-calculator
